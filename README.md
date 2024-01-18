@@ -23,3 +23,5 @@ Make sure you have Python installed. You can install the required dependencies u
 
 ```bash
 pip install pyperclip
+
+
